@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Precedencia()
+comment0.text=\n\ Constructor\ para\ la\ clase\ precedencia\n
+comment1.params=
+comment1.target=java.lang.Integer\ calculo()
+comment1.text=\n\ Operaci\u00F3n\ a\ comprarar\n\ \n\ \n\ @return\ \ \ \ un\ calculo\n
+comment2.params=
+comment2.target=java.lang.Integer\ casoA()
+comment2.text=\n\ @return\ caso\ a\n
+comment3.params=
+comment3.target=java.lang.Integer\ casoB()
+comment3.text=\n\ @return\ caso\ b\n
+comment4.params=
+comment4.target=java.lang.Integer\ casoC()
+comment4.text=\n\ @return\ caso\ c\n
+comment5.params=
+comment5.target=java.lang.Integer\ casoD()
+comment5.text=\n\ @return\ caso\ d\n
+numComments=6

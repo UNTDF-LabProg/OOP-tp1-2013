@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculo()
+comment0.text=\n\ Constructor\ para\ objetos\ de\ la\ clase\ Calculo\n
+comment1.params=
+comment1.target=java.lang.Integer\ suma()
+comment1.text=\n\ suma\ los\ 2\ valores,\ este\ metodo\ esta\ completo\ a\ modo\ de\ ejemplo\n\ \n\ \n\ @return\ \ retorna\ la\ suma\ del\ valor\ a\ y\ el\ b\n
+comment2.params=
+comment2.target=java.lang.Integer\ resta()
+comment2.text=\n\ resta\ dos\ valores\n\ \n\ @return\ retorna\ la\ resta\ de\ a\ y\ b\n\ \n
+comment3.params=
+comment3.target=java.lang.Integer\ multiplica()
+comment3.text=\n\ multiplica\ dos\ valores\n\ \n\ @return\ retorna\ a\ por\ b\n
+comment4.params=
+comment4.target=java.lang.Integer\ divide()
+comment4.text=\n\ divide\ a\ por\ b\n\ \n\ @return\ retorna\ la\ divisi\u00F3n\ de\ a\ por\ b\n\ \n
+numComments=5

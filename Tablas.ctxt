@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ clearScreen()
+comment0.text=\n\ El\ siguiente\ m\u00E9todo\ limpia\ la\ pantalla\ del\ bluej,\ manda\ un\ caracter\ especial\ a\ la\ entrada\n\ estandar.\ Esta\ forma\ de\ limpiar\ la\ pantalla\ es\ propia\ de\ BlueJ\n
+comment1.params=
+comment1.target=void\ pause()
+comment1.text=\n\ Toma\ una\ pausa\ de\ 2\ segundos.\n
+numComments=2
