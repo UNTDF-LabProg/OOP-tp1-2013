@@ -25,3 +25,8 @@ Introducción a la programación orientada a objetos 2013 - Practico 1
   
 7 - Agregue un método a la clase Tablas con nombre imprimeNumeros que imprima los números enteros del 1 al 10, pero no el 3 mediante un bucle for.9) Agregue un método a la clase Tablas con nombre imprimeNumeros que imprima los números enteros del 1 al 10, pero no el 3 mediante un bucle for.
 
+Instrucciones
+=============
+
+Baje el practico desde  [aquí](https://github.com/UNTDF-LabProg/OOP-tp1-2013/archive/master.zip)
+Abra el directorio con BlueJ y siga los puntos del practico.
