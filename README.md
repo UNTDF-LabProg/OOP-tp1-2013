@@ -1,33 +1,23 @@
 Introducción a la programación orientada a objetos 2013 - Practico 1
 ====================================================================
 
-1 - Complete la clase  Calculadora, cambie el resultado de cada método por el calculo entre las variables de intancia  a sobre b utilizando el operador que corresponda al nombre del método. 
-
-  a) Luego de completar la clase, instancie un objecto de la clase Calculo y pruebe cada uno de sus métodos observando que el resultado sea correcto.
-
+1 - Complete la clase  Calculadora, cambie el resultado de cada método por el calculo entre las variables de intancia  a sobre b utilizando el operador que corresponda al nombre del método. <br>
+  a) Luego de completar la clase, instancie un objecto de la clase Calculo y pruebe cada uno de sus métodos observando que el resultado sea correcto.<br>
   b) Es correcto el resultado de la división ? Que cambio abría que hacer para que sea correcto? 
 
   
-2- Analice la el método calculo de la clase Precedencia. Compare los metodos casoA, casoB, casoC, casoD, cual de estos  ilustra correctamente la precedencia de operadores del método calculo?
-
-  a)Escriba un método prueba1 con la operación x+y-2/2+z .
-
-  b)Escriba un método prueba2 con la operación x+(y-2)/(2+z).
-
+2- Analice la el método calculo de la clase Precedencia. Compare los metodos casoA, casoB, casoC, casoD, cual de estos  ilustra correctamente la precedencia de operadores del método calculo?<br>
+  a)Escriba un método prueba1 con la operación x+y-2/2+z .<br>
+  b)Escriba un método prueba2 con la operación x+(y-2)/(2+z).<br>
   c)De los resultados anteriores ¿cual es la precedencia de operadores?.
 
   
-3- Cree una clase Numero que almacene un entero i. 
-
-    a) cree 2 referencias de tipo Numero.
-
-    b) asigne a cada referencia un entero con valores 9 y 47 respectivamente, muestre el resultado.
-
-    c) asigne la referencia 2 a la referencia 1, muestre el resultado.
-
-    d) asigne el valor 27 al objeto de la referencia 1, muestre el resultado
-
-    3) Escriba una clase Comparador que tenga un método compare que realice la comparación de 2 enteros y muestre por pantalla si el primer entero es mayor menor o igual al segundo.
+3- Cree una clase Numero que almacene un entero i. <br>
+    a) cree 2 referencias de tipo Numero.<br>
+    b) asigne a cada referencia un entero con valores 9 y 47 respectivamente, muestre el resultado.<br>
+    c) asigne la referencia 2 a la referencia 1, muestre el resultado.<br>
+    d) asigne el valor 27 al objeto de la referencia 1, muestre el resultado<br>
+    3) Escriba una clase Comparador que tenga un método compare que realice la comparación de 2 enteros y muestre por pantalla si el primer entero es mayor menor o igual al segundo.<br>
 
 4- Escribir una clase Calendario que contenga un método toMonth que reciba un entero  cuyo valor represente un mes del año. El método deberá retornar el nombre del mes, basado en el valor de “month”, mediante la sentencia switch
  
@@ -40,6 +30,5 @@ Introducción a la programación orientada a objetos 2013 - Practico 1
 Instrucciones
 =============
 
-Baje el practico desde  [aquí](https://github.com/UNTDF-LabProg/OOP-tp1-2013/archive/master.zip)
-
+Baje el practico desde  [aquí](https://github.com/UNTDF-LabProg/OOP-tp1-2013/archive/master.zip)<br>
 Abra el directorio con BlueJ y siga los puntos del practico.
